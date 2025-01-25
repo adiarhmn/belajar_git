@@ -18,3 +18,4 @@
 
 - Belajar GIT 2025
 - Konsisten Komit, malam Ini 25 Januari 2025 Commit camuh dlu, buat Nongki
+- Nongki Di Kula cape
