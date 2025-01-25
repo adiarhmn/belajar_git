@@ -1,6 +1,9 @@
 ## Cara Menggunakan GITHUB dari Repository ini
 
+- Belajar Git hub terbaru
 - Sebelumnya anda harus sudah menginstall Git Bash.
+
+
 
 - Jika sudah lakukan Langkah-langkah berikut:
 
